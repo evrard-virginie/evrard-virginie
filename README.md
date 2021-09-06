@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️I’m looking to collaborate on  des projets qui me permettra de monter en compétence et de découvrir de nouvelle technologies
 - 📫 How to reach me .
-Mail: contact@evrardvirginie.fr 
+Mail: virginie.evrard.contact@gmail.com 
 LinkedIn : https://www.linkedin.com/in/virginie-evrard/
 <!---
 Virgin-ie/Virgin-ie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
