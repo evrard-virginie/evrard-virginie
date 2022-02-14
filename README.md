@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Virgin-ie
-- 👀 Je suis développeuse web. 
-- 🌱 Actuellement, j'apprends Python.
+- 👋 Hi, I’m @Virginie
+- 👀 Je suis développeuse web & web mobile. 
+- 🌱 Actuellement, j'apprends le développement logiciel et Python.
 - 💞️Je cherche à collaborer sur des projets qui me permettront de monter en compétence et de découvrir de nouvelles technologies
 - 📫 Contact :
 Mail: virginie.seat@gmail.com 
