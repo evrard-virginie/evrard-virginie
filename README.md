@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://evrardvirginie.fr/references.html](https://evrardvirginie.fr/references.html)
 
-- 📫 How to reach me **https://evrardvirginie.fr/contact.html**
+- 📫 How to reach me **https://webev.fr**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/virginie-evrard/](https://www.linkedin.com/in/virginie-evrard/)
 
