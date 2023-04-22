@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Virginie</h1>
-<h3 align="center">A passionate developer from France</h3>
-
-- 🔭 I’m currently working on **on a task management project**
-
-- 🌱 I’m currently learning **software development**
-
-- 👨‍💻 All of my projects are available at [https://evrardvirginie.fr/references.html](https://evrardvirginie.fr/references.html)
+<h1 align="center">Hi 👋, Webev</h1>
+<h3 align="center">Your digital agency in Aude</h3>
 
 - 📫 How to reach me **https://webev.fr**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/virginie-evrard/](https://www.linkedin.com/in/virginie-evrard/)
+- 📄 Follow us [https://www.linkedin.com/in/virginie-evrard/](https://www.linkedin.com/in/virginie-evrard/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
