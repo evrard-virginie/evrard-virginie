@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Webev</h1>
+<h1 align="center">Webev</h1>
 <h3 align="center">Your digital agency in Aude</h3>
 
 - 📫 How to reach me **https://webev.fr**
